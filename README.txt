@@ -1,0 +1,1 @@
+To jest prostu projekt kalkulatora.
